@@ -3,3 +3,9 @@ pandas
 scikit-learn
 joblib
 flask
+numpy
+pandas
+scikit-learn
+joblib
+flask
+gunicorn
